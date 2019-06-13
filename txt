@@ -1,5 +1,0 @@
-pip install tensorflow
-
-conda install tensorflow
-
-from tensorflow import keras
